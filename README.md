@@ -6,6 +6,14 @@ Welcome to SpinX, a modern cryptocurrency casino gaming platform built with Next
 ![SpinX Platform Dashboard](https://github.com/user-attachments/assets/93c1e56a-ce23-4e99-aec1-dc010fb5e6e3)   
 *Main dashboard showing all available games*
 
+## Support
+
+If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
+- E-Mail: admin@hyperbuildx.com
+- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+
+---
+
 ## Table of Contents
 
 - [Game Guides](#game-guides)
@@ -546,14 +554,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 ---
-
-## Support
-
-If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
-- E-Mail: admin@hyperbuildx.com
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
-
----
-
 
 **Happy Gaming! 🎰🎮💎**
